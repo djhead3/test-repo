@@ -1,4 +1,4 @@
 # test-repo
-Test-repo for coursera 
+Test-repo for coursera
 
-Self expanatory
+Self explanatory
